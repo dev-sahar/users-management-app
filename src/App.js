@@ -1,7 +1,6 @@
 import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 
 import AddUser from './components/AddUser/AddUser';
-import EditUser from './components/EditUser/EditUser';
 import UsersList from './components/UsersList/UserList';
 
 const App = () => {
